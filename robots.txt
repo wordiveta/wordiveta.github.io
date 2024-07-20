@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wordiveta.github.io/sitemap
+Sitemap: https://wordiveta.github.io/app/sitemap
+Sitemap: https://wordiveta.github.io/assets/sitemap
+Sitemap: https://wordiveta.github.io/css/sitemap
+Sitemap: https://wordiveta.github.io/includes/sitemap
+Sitemap: https://wordiveta.github.io/item/sitemap
+Sitemap: https://wordiveta.github.io/src/sitemap
